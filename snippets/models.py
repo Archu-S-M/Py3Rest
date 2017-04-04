@@ -27,5 +27,3 @@ class Snippet(models.Model):
 
     class Meta:
         ordering = ("created",)
-
-# A new change
